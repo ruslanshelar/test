@@ -1,11 +1,90 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
- <!--
- created with Free Online Sitemap Generator www.xml-sitemaps.com 
--->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 <url>
-<loc>https://ruslanshelar.github.io/test/</loc>
+  <loc>http://exigio.com/</loc>
 </url>
 <url>
-<loc>https://ruslanshelar.github.io/test/sitemap-test</loc>
+  <loc>http://exigio.com/about-us/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/become-an-affiliate/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/services/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/web-design/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/responsive-web-design/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/web-development/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/cms-solutions/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/ecommerce-solutions/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/outsourcing-services/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/online-business-solutions/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/managed-online-advertising/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/contact-us/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/blog/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/pii118/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/callmyname/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/callmyname-ch/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/entreprenable/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/dolcevita/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/onboardcrm/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/wasteoilnet/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/universal-vizyon/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/portfolio/mimosa/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/error404/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/why-your-website-is-not-generating-enough-cash/</loc>
+</url>
+<url>
+  <loc>http://exigio.com/6-simple-ways-to-increase-your-online-business-cash-flow/</loc>
 </url>
 </urlset>
